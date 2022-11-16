@@ -34,8 +34,8 @@ public class LocaleCommand implements FlamesCommand {
             case "tra":
                 newLocale = Locale.forLanguageTag("tra");
                 break;
-            case "goldlewis":
-                newLocale = Locale.forLanguageTag("goldlewis");
+            case "gld":
+                newLocale = Locale.forLanguageTag("gld");
                 break;
             default:
                 event.replyEmbeds(new BadArgumentsErrorMessage(new BadArgumentsException("Locale must be one of `en,tra,es`"), event.getUser()).get()).complete();
