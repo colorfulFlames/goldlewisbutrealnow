@@ -20,7 +20,6 @@
     <file url="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed_en.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed_es.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_en.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_es.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/data/ConversationEmbed.properties" />
@@ -119,7 +118,6 @@
       <base-name>ThanksEmbed</base-name>
     </custom-resource-bundle>
     <custom-resource-bundle>
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed.properties" />
       <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_en.properties" />
       <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_es.properties" />
       <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_tra.properties" />
