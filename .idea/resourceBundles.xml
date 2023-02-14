@@ -8,24 +8,23 @@
     <file url="file://$PROJECT_DIR$/src/main/resources/error/NotFlamesUserMessage_en.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/error/NotFlamesUserMessage_es.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/error/NotFlamesUserMessage_tra.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/features/Consent.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/features/Consent_en.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/features/Consent_es.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/features/AboutEmbed.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/features/AboutEmbed_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/features/AboutEmbed_es.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/features/AboutEmbed_tra.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed_en.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed_es.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/Emotion.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/Emotion_en.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/Emotion_es.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/features/QOTDEmbed.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/features/QOTDEmbed_en.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/features/QOTDEmbed_es.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/Ranking.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/Ranking_en.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/Ranking_es.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed_en.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed_es.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_en.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_es.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/features/data/ConversationEmbed.properties" />
@@ -96,6 +95,41 @@
       <base-name>WelcomeBackEmbed</base-name>
     </custom-resource-bundle>
     <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed_es.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed_tra.properties" />
+      <base-name>DebugEmbed</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/Emotion.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/Emotion_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/Emotion_es.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/Emotion_tra.properties" />
+      <base-name>Emotion</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/Ranking.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/Ranking_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/Ranking_es.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/Ranking_tra.properties" />
+      <base-name>Ranking</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed_es.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed_tra.properties" />
+      <base-name>ThanksEmbed</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_es.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_tra.properties" />
+      <base-name>TodayEmbed</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
       <file value="file://$PROJECT_DIR$/src/main/resources/message/UpdatedSettingsEmbed.properties" />
       <file value="file://$PROJECT_DIR$/src/main/resources/message/UpdatedSettingsEmbed_en.properties" />
       <file value="file://$PROJECT_DIR$/src/main/resources/message/UpdatedSettingsEmbed_es.properties" />
@@ -124,50 +158,11 @@
       <base-name>NotFlamesUserMessage</base-name>
     </custom-resource-bundle>
     <custom-resource-bundle>
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed_en.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed_es.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/DebugEmbed_tra.properties" />
-      <base-name>DebugEmbed</base-name>
-    </custom-resource-bundle>
-    <custom-resource-bundle>
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Consent.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Consent_en.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Consent_es.properties" />
-      <base-name>Consent</base-name>
-    </custom-resource-bundle>
-    <custom-resource-bundle>
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Emotion.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Emotion_en.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Emotion_es.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Emotion_tra.properties" />
-      <base-name>Emotion</base-name>
-    </custom-resource-bundle>
-    <custom-resource-bundle>
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/QOTDEmbed.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/QOTDEmbed_en.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/QOTDEmbed_es.properties" />
-      <base-name>QOTDEmbed</base-name>
-    </custom-resource-bundle>
-    <custom-resource-bundle>
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Ranking.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Ranking_en.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Ranking_es.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/Ranking_tra.properties" />
-      <base-name>Ranking</base-name>
-    </custom-resource-bundle>
-    <custom-resource-bundle>
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed_en.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed_es.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/ThanksEmbed_tra.properties" />
-      <base-name>ThanksEmbed</base-name>
-    </custom-resource-bundle>
-    <custom-resource-bundle>
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_en.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_es.properties" />
-      <file value="file://$PROJECT_DIR$/src/main/resources/features/TodayEmbed_tra.properties" />
-      <base-name>TodayEmbed</base-name>
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/AboutEmbed.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/AboutEmbed_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/AboutEmbed_es.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/features/AboutEmbed_tra.properties" />
+      <base-name>AboutEmbed</base-name>
     </custom-resource-bundle>
   </component>
 </project>
